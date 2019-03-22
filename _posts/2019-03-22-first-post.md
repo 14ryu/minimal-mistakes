@@ -25,5 +25,5 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 
 03 이미지 삽입
 
-![re1](https://raw.githubusercontent.com/14ryu/14ryu.github.io/re1.PNG)
+![re1](https://raw.githubusercontent.com/14ryu/14ryu.github.io/img/re1.PNG)
 
