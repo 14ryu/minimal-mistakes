@@ -11,9 +11,9 @@ categories: jekyll update
 def print_hi(name):
   print("hello", name)
 print_hi('Tom')
-​```
+```
 
-2. 기타 이것저것
+2. 링크 걸어보기
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
@@ -21,3 +21,7 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
 
+
+3. 이미지 삽입
+
+추후
