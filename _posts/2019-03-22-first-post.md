@@ -25,4 +25,4 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 
 03 이미지 삽입
 
-![re1](./img/re1.png)
+![re1](./img/re1.PNG)
