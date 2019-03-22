@@ -5,6 +5,7 @@ categories: jekyll update
 ---
 
 오늘부터 열심히 해야지!
+
 01 파이썬 코드 붙이기 
 
 ```python
@@ -24,4 +25,4 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 
 03 이미지 삽입
 
-추후
+![re1](./img/re1.png)
