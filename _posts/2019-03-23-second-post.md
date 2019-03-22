@@ -6,7 +6,7 @@ categories: jekyll update
 
 겨울방학에 진행했던 웹스터디 결과물
 
-<!DOCTYPE html>
+
 <html>
 <head>
   <!-- Plotly.js -->
