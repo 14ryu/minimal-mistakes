@@ -108,7 +108,7 @@ analytics:
 author:
   name             : "Jaewon Ryu"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Nice to meet you!."
+  bio              : "Nice to meet you!"
   location         : "Seoul, South Korea"
   email            :
   links:
